@@ -31,7 +31,7 @@
 
 ---
 
-# Do Contributing !
+# Do Contribute !
 
 이웃사이는 Apache License 를 따르는 오픈소스 프로젝트 입니다.
 
