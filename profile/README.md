@@ -28,13 +28,6 @@
 
 ### 5. [커뮤니티 기능](https://github.com/among-neighbors/AN-backend/wiki/%5B%EA%B8%B0%EB%8A%A5%5D-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
 
-
----
-
-# UI Theme
-<img width="612" alt="Screen Shot 2022-10-30 at 10 43 40 PM" src="https://user-images.githubusercontent.com/62577565/198881840-584dec15-762c-4aa9-a21a-ea3305d05073.png">
-
-
 ---
 
 # Do Contribute !
@@ -44,6 +37,11 @@
 아래의 이웃사이의 가이드라인에 따라 자유롭게 코드를 수정하고 이웃사이의 기여자가 되어주세요!
 
 [Contributing Guideline](https://github.com/among-neighbors/AN-backend/blob/main/CONTRIBUTING.md)
+
+---
+
+# UI Theme
+<img width="612" alt="Screen Shot 2022-10-30 at 10 43 40 PM" src="https://user-images.githubusercontent.com/62577565/198881840-584dec15-762c-4aa9-a21a-ea3305d05073.png">
 
 ---
 
