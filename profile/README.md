@@ -41,7 +41,8 @@
 ---
 
 # UI Theme
-<img width="612" alt="Screen Shot 2022-10-30 at 10 43 40 PM" src="https://user-images.githubusercontent.com/62577565/198881840-584dec15-762c-4aa9-a21a-ea3305d05073.png">
+
+<img width="30%" alt="Screen Shot 2022-10-30 at 10 46 53 PM" src="https://user-images.githubusercontent.com/62577565/198881995-4065dc92-e27a-4490-9ee9-7149295e66b0.png">
 
 ---
 
